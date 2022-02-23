@@ -24,7 +24,7 @@ public class AccessModifiers {
 		Modify mr=new Modify();
 		
 		mr.show();
-		mr.display();    //can not access
+		//mr.display();    //can not access
 
 }
 }

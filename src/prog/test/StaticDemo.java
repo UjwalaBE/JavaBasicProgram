@@ -13,9 +13,9 @@ public class StaticDemo {
 	
 	static void display1() {
 		System.out.println(l);
-		System.out.println(m);//instance variable not accessed by static methods
+		//System.out.println(m);//instance variable not accessed by static methods
 		
-		show();               //instance method can not call in static methods
+		//show();               //instance method can not call in static methods
 	}
 		
 		

@@ -28,7 +28,7 @@ public class ProtectedMod {
 		
 		ProtectedMod mr= new ProtectedM();
 		
-		mr.show();// can not acess
+		//mr.show();// can not acess
 		mr.display();    //can  access
 
 }
